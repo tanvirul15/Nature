@@ -1,5 +1,5 @@
 # Nature- A client side of a tour package provider
-### Nature is a tour package provide website which is developed by Tanvirul under the Udemy course "Advanced CSS and Sass: Flexbox, Grid, Animations and More!" by Jonas Schamedtmann
+### Nature is a website that offers excellent tour packages package, which Tanvirul develops under the Udemy course "Advanced CSS and Sass: Flexbox, Grid, Animations and More!". All the fantastic cards, designs, and animations are implemented using raw CSS. Advanced CSS concept, Sass, 7-1 Sass architecture, BEM notation are utilized hare. 
 1. The design is highly impressive and unique
 2. All the style, animation, effect and grid system are implemented using vanilla CSS
 3. Highly Responsive design, responsiveness are implementet using vanila CSS.
